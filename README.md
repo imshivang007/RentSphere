@@ -10,7 +10,7 @@
   <h3 align="center">🏡 RentSphere — Find Homes Easily & Securely</h3>
 
    <div align="center">
-     Learn, build, and explore real estate tech with RentSphere — a modern property rental platform built using cutting-edge technologies.
+     Explore real estate tech with RentSphere — a modern property rental platform built using cutting-edge technologies.
     </div>
 </div>
 
@@ -20,17 +20,12 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets](#snippets)
-6. 🔗 [Assets](#links)
-7. 🚀 [More](#more)
 
 ---
 
 ## <a name="introduction">🤖 Introduction</a>
 
 **RentSphere** is a full-stack real estate rental application where users can explore properties, view details, and contact property owners. The project includes authentication, advanced search, favorites, and modern UI built with Expo + React Native + Appwrite + TypeScript.
-
-Perfect for learning scalable architecture and backend integration with real-time databases and file storage.
 
 If you need assistance or want to collaborate, feel free to connect!
 
@@ -76,8 +71,36 @@ Before getting started, make sure you have installed:
 ### **Cloning the Repository**
 
 ```bash
-git clone https://github.com/your-username/RentSphere.git
+git clone https://github.com/imshivang007/RentSphere.git
 cd RentSphere
 
 ```
+
+
+### **Installation**
+
+### **Install the project dependencies using npm:**
+```bash
+npm install
+```
+---
+
+### **Running the Project**
+
+```bash
+npx expo start
+```
+---
+
+
+## 🧑‍💻 Author
+**Shivang Gupta**
+
+⭐ Star the repository if you found it useful!
+
+
+
+
+
+
 
