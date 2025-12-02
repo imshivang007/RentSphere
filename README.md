@@ -1,9 +1,4 @@
 <div align="center">
-  <br />
-    <a href="https://your-demo-or-video-link.com" target="_blank">
-      <img src="assets/readme/hero.webp" alt="Project Banner">
-    </a>
-  <br />
   <div>
     <img src="https://img.shields.io/badge/-Expo-black?style=for-the-badge&logoColor=white&logo=expo&color=000020" alt="expo" />
     <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react-native" />
@@ -28,16 +23,6 @@
 5. 🕸️ [Snippets](#snippets)
 6. 🔗 [Assets](#links)
 7. 🚀 [More](#more)
-
----
-
-## 🚨 Demo / Tutorial
-
-Watch the demo or step-by-step build tutorial below 👇
-
-<a href="https://your-demo-or-video-link.com" target="_blank">
-<img src="assets/readme/demo.webp" />
-</a>
 
 ---
 
@@ -93,3 +78,6 @@ Before getting started, make sure you have installed:
 ```bash
 git clone https://github.com/your-username/RentSphere.git
 cd RentSphere
+
+```
+
