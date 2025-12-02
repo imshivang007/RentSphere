@@ -1,50 +1,95 @@
-# Welcome to your Expo app 👋
+<div align="center">
+  <br />
+    <a href="https://your-demo-or-video-link.com" target="_blank">
+      <img src="assets/readme/hero.webp" alt="Project Banner">
+    </a>
+  <br />
+  <div>
+    <img src="https://img.shields.io/badge/-Expo-black?style=for-the-badge&logoColor=white&logo=expo&color=000020" alt="expo" />
+    <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react-native" />
+    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
+    <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" />
+    <img src="https://img.shields.io/badge/-Tailwind_NativeWind-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+  </div>
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+  <h3 align="center">🏡 RentSphere — Find Homes Easily & Securely</h3>
 
-## Get started
+   <div align="center">
+     Learn, build, and explore real estate tech with RentSphere — a modern property rental platform built using cutting-edge technologies.
+    </div>
+</div>
 
-1. Install dependencies
+## 📋 <a name="table">Table of Contents</a>
 
-   ```bash
-   npm install
-   ```
+1. 🤖 [Introduction](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🔋 [Features](#features)
+4. 🤸 [Quick Start](#quick-start)
+5. 🕸️ [Snippets](#snippets)
+6. 🔗 [Assets](#links)
+7. 🚀 [More](#more)
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## 🚨 Demo / Tutorial
 
-In the output, you'll find options to open the app in a
+Watch the demo or step-by-step build tutorial below 👇
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+<a href="https://your-demo-or-video-link.com" target="_blank">
+<img src="assets/readme/demo.webp" />
+</a>
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## <a name="introduction">🤖 Introduction</a>
 
-When you're ready, run:
+**RentSphere** is a full-stack real estate rental application where users can explore properties, view details, and contact property owners. The project includes authentication, advanced search, favorites, and modern UI built with Expo + React Native + Appwrite + TypeScript.
+
+Perfect for learning scalable architecture and backend integration with real-time databases and file storage.
+
+If you need assistance or want to collaborate, feel free to connect!
+
+---
+
+## <a name="tech-stack">⚙️ Tech Stack</a>
+
+- **Expo** — Build cross-platform apps with ease (Android, iOS, Web).
+- **React Native** — Component-based development of mobile UIs.
+- **Appwrite** — Backend services including Auth, Database, Storage.
+- **TypeScript** — Type-safe, maintainable code structure.
+- **NativeWind / Tailwind CSS** — Utility-based modern UI styling.
+
+---
+
+## <a name="features">🔋 Features</a>
+
+👉 **User Authentication** (Email / OAuth / Secure login)  
+👉 **Property Listings** with images, pricing, and location  
+👉 **Advanced Search & Filters** for easy property discovery  
+👉 **Favorites / Wishlist** save properties for quick access  
+👉 **Property Details Page** with gallery + full details  
+👉 **Profile Page & Settings**  
+👉 **Appwrite Database + Storage Integration**  
+👉 **Reusable Component Architecture**  
+
+and much more coming soon… 🚀
+
+---
+
+## <a name="quick-start">🤸 Quick Start</a>
+
+Follow these steps to set up the project locally.
+
+### **Prerequisites**
+Before getting started, make sure you have installed:
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- npm or yarn package manager
+- Expo CLI
+
+### **Cloning the Repository**
 
 ```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+git clone https://github.com/your-username/RentSphere.git
+cd RentSphere
