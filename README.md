@@ -1,4 +1,5 @@
 <div align="center">
+   <h2 align="center">🏡 RentSphere — Find Homes Easily & Securely</h2>
   <div>
     <img src="https://img.shields.io/badge/-Expo-black?style=for-the-badge&logoColor=white&logo=expo&color=000020" alt="expo" />
     <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react-native" />
@@ -7,7 +8,7 @@
     <img src="https://img.shields.io/badge/-Tailwind_NativeWind-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
-  <h3 align="center">🏡 RentSphere — Find Homes Easily & Securely</h3>
+ 
 
    <div align="center">
      Explore real estate tech with RentSphere — a modern property rental platform built using cutting-edge technologies.
